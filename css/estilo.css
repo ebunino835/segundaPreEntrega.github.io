@@ -1,0 +1,64 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aquamarine;
+    margin: 5px 15px;
+}
+
+header div{
+    display: inline-block;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+li{
+    display: inline-block;
+}
+
+main {
+    margin: 2px 15px;
+}
+
+section{
+    background-color: grey;
+}
+
+main section h1 {
+    color: white;
+}
+
+.textoNovedades{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+
+.novedades_imagenes img{
+    width: 350px;
+    height: 350px;
+}
+
+.sectionNosotros{
+    border: 1px solid black;
+    margin: 10px 80px
+}
+
+footer{
+    background-color: yellowgreen;
+}
+
+footer img{
+    width: 50px;
+    height: 50px;
+}
+
+footer p{
+    display: inline;
+}
